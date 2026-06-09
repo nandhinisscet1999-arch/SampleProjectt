@@ -65,8 +65,6 @@ public class productPage {
 	
 	public void createName(String firstname, String lastname ,String postal)
 	{
-
-
 		firstname1.sendKeys(firstname);
 	    lastname1.sendKeys(lastname);
 	    postalCoast.sendKeys(postal);
