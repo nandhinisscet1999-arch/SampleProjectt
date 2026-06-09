@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<parameter name="url" value="https://www.saucedemo.com/"></parameter>
+<parameter name="username" value="standard_user"></parameter>
+<parameter name="password" value="secret_sauces"></parameter>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testScript.ReadDataFromXml"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

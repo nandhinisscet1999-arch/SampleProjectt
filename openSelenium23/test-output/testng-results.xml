@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-20T00:44:57 IST" name="Suite" finished-at="2026-05-20T00:45:12 IST" duration-ms="14802">
+    <groups>
+      <group name="SmokeTest">
+        <method signature="pratice1.t2()[pri:0, instance:testScript.pratice1@c0c2f8d]" name="t2" class="testScript.pratice1"/>
+      </group> <!-- SmokeTest -->
+      <group name="RegressionTest">
+        <method signature="pratice1.t1()[pri:0, instance:testScript.pratice1@c0c2f8d]" name="t1" class="testScript.pratice1"/>
+        <method signature="pratice1.t2()[pri:0, instance:testScript.pratice1@c0c2f8d]" name="t2" class="testScript.pratice1"/>
+      </group> <!-- RegressionTest -->
+      <group name="smokeTest">
+        <method signature="pratice1.t1()[pri:0, instance:testScript.pratice1@c0c2f8d]" name="t1" class="testScript.pratice1"/>
+      </group> <!-- smokeTest -->
+    </groups>
+    <test started-at="2026-05-20T00:44:57 IST" name="Test" finished-at="2026-05-20T00:45:12 IST" duration-ms="14802">
+      <class name="testScript.pratice1">
+        <test-method is-config="true" signature="bs()[pri:0, instance:testScript.pratice1@c0c2f8d]" started-at="2026-05-20T00:44:57 IST" name="bs" finished-at="2026-05-20T00:44:57 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bs -->
+        <test-method is-config="true" signature="BT()[pri:0, instance:testScript.pratice1@c0c2f8d]" started-at="2026-05-20T00:44:57 IST" name="BT" finished-at="2026-05-20T00:44:57 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method is-config="true" signature="Bc()[pri:0, instance:testScript.pratice1@c0c2f8d]" started-at="2026-05-20T00:44:57 IST" name="Bc" finished-at="2026-05-20T00:44:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bc -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:testScript.pratice1@c0c2f8d]" started-at="2026-05-20T00:44:57 IST" name="BM" finished-at="2026-05-20T00:44:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method signature="t1()[pri:0, instance:testScript.pratice1@c0c2f8d]" started-at="2026-05-20T00:44:57 IST" name="t1" finished-at="2026-05-20T00:45:05 IST" duration-ms="7662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t1 -->
+        <test-method is-config="true" signature="Am()[pri:0, instance:testScript.pratice1@c0c2f8d]" started-at="2026-05-20T00:45:05 IST" name="Am" finished-at="2026-05-20T00:45:05 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Am -->
+        <test-method signature="t2()[pri:0, instance:testScript.pratice1@c0c2f8d]" started-at="2026-05-20T00:45:05 IST" name="t2" finished-at="2026-05-20T00:45:12 IST" duration-ms="7064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t2 -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:testScript.pratice1@c0c2f8d]" started-at="2026-05-20T00:45:05 IST" name="BM" finished-at="2026-05-20T00:45:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method is-config="true" signature="Am()[pri:0, instance:testScript.pratice1@c0c2f8d]" started-at="2026-05-20T00:45:12 IST" name="Am" finished-at="2026-05-20T00:45:12 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Am -->
+        <test-method is-config="true" signature="Ac()[pri:0, instance:testScript.pratice1@c0c2f8d]" started-at="2026-05-20T00:45:12 IST" name="Ac" finished-at="2026-05-20T00:45:12 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ac -->
+        <test-method is-config="true" signature="AT()[pri:0, instance:testScript.pratice1@c0c2f8d]" started-at="2026-05-20T00:45:12 IST" name="AT" finished-at="2026-05-20T00:45:12 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AT -->
+        <test-method is-config="true" signature="As()[pri:0, instance:testScript.pratice1@c0c2f8d]" started-at="2026-05-20T00:45:12 IST" name="As" finished-at="2026-05-20T00:45:12 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- As -->
+      </class> <!-- testScript.pratice1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
