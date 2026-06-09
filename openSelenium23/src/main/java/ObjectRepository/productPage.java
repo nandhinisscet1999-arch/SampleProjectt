@@ -11,8 +11,12 @@ public class productPage {
 	{
 		PageFactory.initElements(driver, this);
 	}
+	@FindBy(xpath="//a[@class='shopping_cart_link']")
+	private WebElement productbtn;
 	
-	
+	public WebElement getProductbtn() {
+		return productbtn;
+	}
 	@FindBy(xpath="//a[@class='shopping_cart_link']")
      private WebElement  shoppingcart;
 	
