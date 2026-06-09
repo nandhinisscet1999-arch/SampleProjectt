@@ -12,5 +12,6 @@ public class HomePage {
 	
 	@FindBy(name="products")
 	private WebElement prod;
+	
 
 }
