@@ -9,5 +9,8 @@ public class HomePage {
 	
 	@FindBy(name="search")
 	private WebElement ele1;
+	
+	@FindBy(name="products")
+	private WebElement prod;
 
 }
